@@ -13,3 +13,5 @@ var palindromo = function (word) {
     return false;
 
 }
+
+console.log(palindromo("subinoonibus"));

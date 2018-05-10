@@ -5,3 +5,5 @@ var triangulo = function (linhas) {
 	 console.log(t)
   }
 }
+
+triangulo(5);

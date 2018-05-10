@@ -13,3 +13,6 @@ var fizzbuzz = function() {
   }
 
 }
+
+
+fizzbuzz();

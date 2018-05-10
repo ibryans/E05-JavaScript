@@ -9,3 +9,5 @@ var xadrez = function (linhas) {
       console.log(space + x);
   }
 }
+
+xadrez(5);
